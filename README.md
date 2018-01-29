@@ -5,10 +5,10 @@
 # The data running in the Step 1
 
 
-df; dataframe;  (23992,2)
-headers; dict; 1
-root_url; str;  1
-years; list; 258
+* df; dataframe;  (23992,2)
+* headers; dict; 1
+* root_url; str;  1
+* years; list; 258
 
 # Step 1
 
